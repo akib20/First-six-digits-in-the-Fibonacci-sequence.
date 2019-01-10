@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1547130409 source:c:\users\akib\desktop\fibonacci\main.c
+	<stdio.h>
+	<stdlib.h>
+
